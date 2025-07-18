@@ -1,6 +1,8 @@
-var kim = {
-    firstName: "Kim",
-    lastName: "Smith",
-    age: 30,
-    address: "Seoul"
-}
+var study = ["html", "css", "js"]
+
+console.log(study.pop());
+
+// 출력
+"js"
+console.log(study.shift());
+
